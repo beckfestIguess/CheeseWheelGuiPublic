@@ -23,4 +23,9 @@ clb2lwo converts collision(clb) files to lwo files
 lwo2clb reverse of clb2lwo
 
 
+If you need help getting started start here: https://youtu.be/GDpdAP1HqkI 
+I will also be making a tutorial for the tool itself
+
+
+
 ITS PROBABLY STILL VERY BUGGY SO JUST UHH TELL ME NICELY 
